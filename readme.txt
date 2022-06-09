@@ -4,4 +4,8 @@ see u
 3
 new css
 vivo
+<<<<<<< HEAD
 minor changes
+=======
+100000
+>>>>>>> js-assignments
